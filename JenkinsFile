@@ -1,12 +1,12 @@
 node{
-Stage('build'){
+stage('build'){
 echo 'Buildinh'
 
 }
-Stage('test'){
+stage('test'){
 echo 'Buildinh'
 }
-Stage('deploy'){
+stage('deploy'){
 echo 'Buildinh'
 }
 }
