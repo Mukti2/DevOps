@@ -1,8 +1,0 @@
-node{
-Stage('build'){
-
-}
-Stage('test'){
-}
-Stage('deploy'){
-}
